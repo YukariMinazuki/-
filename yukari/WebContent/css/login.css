@@ -1,0 +1,64 @@
+.div {
+	width: 440px;
+	height: 350px;
+	position: absolute;
+	left: 50%;
+	top: 30%;
+	margin: 0 auto 0 -220px;
+	background: rgba(255,255,255, 0.5);
+	
+}
+#center { 
+    margin-right: auto;
+    margin-left: auto;
+    height:200px;
+    background:#f00;
+    width:400px;
+    vertical-align:middle;
+    line-height:200px;
+ }
+ 
+#userName,#password,#validationCode {
+	border-color: #1E90FF;
+	width: 170px;
+	height: 25px;
+	border: 0px #1E90FF solid;
+	border-bottom: #1E90FF 1px solid;
+	border-left: #1E90FF 1px solid;
+	border-right: #1E90FF 1px solid;
+	border-top: #1E90FF 1px solid;
+	border-radius:5px;
+}
+
+input {
+	font-size: 15px;
+	color: #1E90FF;
+	font-family: tahoma, "Î¢ÈíÑÅºÚ";
+}
+
+body {
+	font-size: 20px;
+	color: #1E90FF;
+	font-family: tahoma, "Î¢ÈíÑÅºÚ";
+	background-image: url(../img/12.jpg);
+	background-size:cover;
+	text-align: center;
+}
+
+img{
+	margin: -6px -7px 0 auto;
+	width:30px;
+	height:31px;
+}
+
+.img1 {
+		width: 350px;
+		height: 200px;
+		margin-top:2%;		
+}
+		
+font{
+	font-size: 16px;
+	color: #1E90FF;
+	font-family: tahoma, "Î¢ÈíÑÅºÚ";
+}
